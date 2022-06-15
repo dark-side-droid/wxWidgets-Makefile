@@ -2,7 +2,7 @@
 
 This archive represents a simple standalone precompiled project which illustrates how to setup a makefile to work with wxwidgets. You need to have wxWidgets 3.1.6 or later installed for this example to work. Tested and works on debian 11.
 
-To compile simply cd into project folder and `make`.
+To build simply cd into project folder and `make`.
 
 ## Setup precompiled headers
 
